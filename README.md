@@ -8,7 +8,7 @@
 
 ## Hey there! I'm Amira.
 
-# 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me 
 <!--
 **mira1010-lab/mira1010-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
