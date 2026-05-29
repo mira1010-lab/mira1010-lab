@@ -8,52 +8,34 @@
 
 ## Hey there! I'm Amira.
 
-### 👨🏻‍💻 About Me 
 
+<h1>Hey there! I'm Amira.</h1>
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-
-
-<table>
-  <tr>
-    <td width="60%">
+<div style="flex: 1;">
 
 ## 👨🏻‍💻 About Me
 
 I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong background in Electronics & Communication Engineering.
 
-🎓 Graduated from High Institute Of Computer Science  
-🏆 Rank: 1st with Excellent with Honours  
-
-💼 Embedded Software Engineer  
-
-🌱 Currently exploring:
-- Microcontrollers programming  
-- Embedded Linux systems  
-- AUTOSAR architecture  
-- Low-level C development  
+- 🎓 Graduated from High Institute Of Computer Science  
+- 🏆 Rank: 1st with Excellent with Honours  
+- 💼 Embedded Software Engineer  
+- 🌱 Learning:
+  - Microcontrollers programming  
+  - Embedded Linux systems  
+  - AUTOSAR architecture  
+  - Low-level C development  
 
 📫 Reach me:  
 - LinkedIn: https://linkedin.com/in/your-profile  
 - Email: amirahammami1010@gmail.com  
 
-  </td>
-  <td width="40%">
-    <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="250"/>
-  </td>
-  </tr>
-</table>
-<!--
-**mira1010-lab/mira1010-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div style="flex: 1; text-align: center;">
+  <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="280"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
