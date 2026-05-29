@@ -14,11 +14,13 @@
 
 
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300"/>
-</p>
+<table>
+  <tr>
+    <td width="60%">
 
-I'm a passionate **Embedded Software Engineer and IoT Systems ** with a strong background in **Electronics & Communication Engineering**.
+## 👨🏻‍💻 About Me
+
+I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong background in Electronics & Communication Engineering.
 
 🎓 Graduated from High Institute Of Computer Science  
 🏆 Rank: 1st with Excellent with Honours  
@@ -26,14 +28,21 @@ I'm a passionate **Embedded Software Engineer and IoT Systems ** with a strong b
 💼 Embedded Software Engineer  
 
 🌱 Currently exploring:
-- Microcontrollers programming
-- Embedded Linux systems
-- AUTOSAR architecture
-- Low-level C development
+- Microcontrollers programming  
+- Embedded Linux systems  
+- AUTOSAR architecture  
+- Low-level C development  
 
-📫 Reach me:
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/amira-hammami-b22b49303/)
-- Email: amirahammami1010@gmail.com
+📫 Reach me:  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: amirahammami1010@gmail.com  
+
+  </td>
+  <td width="40%">
+    <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="250"/>
+  </td>
+  </tr>
+</table>
 <!--
 **mira1010-lab/mira1010-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
