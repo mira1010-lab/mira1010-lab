@@ -18,7 +18,15 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
   - Microcontrollers programming  
   - Embedded Linux systems  
   - AUTOSAR architecture  
-  - Low-level C development  
+  - Low-level C development
+  - 📫 Reach me:  
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin">
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail">
+  </a>
   </p>
   
   <img 
@@ -26,21 +34,7 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
     width="280"
   />
 
-</div>
-📫 Reach me:  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: amirahammami1010@gmail.com  
-## 📫 How to reach me
-
-<p align="left">
-  <a href="www.linkedin.com/in/amira-hammami-b22b49303/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin">
-  </a>
-
-  <a href="mailto:amirahammami1010@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail">
-  </a>
-</p>
+</div> 
 
 ## 🛠️ Languages and Tools
 
