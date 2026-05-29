@@ -1,4 +1,12 @@
-## Hi there 👋
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+
+<h1 align="center">Hi 👋, I'm Amira Hammami</h1>
+<h3 align="center">Junior GRC Consultant | Future Embedded Systems Engineer</h3>
+
+
+## Hey there! I'm Amira.
 
 <!--
 **mira1010-lab/mira1010-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
