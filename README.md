@@ -37,12 +37,18 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
   <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c">
   <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B">
-  <p align="left">
-  ⚙️ Git &nbsp; LinuxUbuntu &nbsp; GitHub &nbsp; Markdown
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux">
+  <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu">
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
 </p>
 
 <p align="left">
-  🔧 Visual Studio Code &nbsp; Eclipse
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide">
 </p>
   
 
