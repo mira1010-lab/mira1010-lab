@@ -1,7 +1,7 @@
 
 
 
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/0cb60213353c82fafd5ce011525b2ee373fb278a74e9b64c2dc5770fb9cb8586/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
+<img align="center" alt="coding" width="300" src="https://camo.githubusercontent.com/0cb60213353c82fafd5ce011525b2ee373fb278a74e9b64c2dc5770fb9cb8586/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
 
 
 
