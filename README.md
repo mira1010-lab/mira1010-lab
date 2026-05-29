@@ -30,6 +30,17 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
 📫 Reach me:  
 - LinkedIn: https://linkedin.com/in/your-profile  
 - Email: amirahammami1010@gmail.com  
+## 📫 How to reach me
+
+<p align="left">
+  <a href="www.linkedin.com/in/amira-hammami-b22b49303/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin">
+  </a>
+
+  <a href="mailto:amirahammami1010@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail">
+  </a>
+</p>
 
 ## 🛠️ Languages and Tools
 
