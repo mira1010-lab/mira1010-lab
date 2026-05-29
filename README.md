@@ -39,3 +39,19 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
 </div>
 
 </div>
+## 🛠️ Languages and Tools
+
+### 💻 Programming Languages
+- Python  
+- C  
+- C++  
+
+### ⚙️ Tools & Technologies
+- Git  
+- GitHub  
+- Linux (Ubuntu)  
+- Markdown  
+
+### 🔧 IDEs
+- Visual Studio Code  
+- Eclipse  
