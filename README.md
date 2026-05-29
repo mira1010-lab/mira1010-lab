@@ -5,13 +5,7 @@
 </p>
 
 
-
 ## Hey there! I'm Amira.
-
-
-<h1>Hey there! I'm Amira.</h1>
-
-
 ## 👨🏻‍💻 About Me
 <div style="display: flex; align-items: center; gap: 20px;">
 <p style="flex: 1; margin: 0;">
@@ -37,12 +31,8 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
 - LinkedIn: https://linkedin.com/in/your-profile  
 - Email: amirahammami1010@gmail.com  
 
-
-
-
-
 ## 🛠️ Languages and Tools
 
 ### 🔧 IDEs
-- Visual Studio Code  
+
 - Eclipse  
