@@ -11,12 +11,9 @@
 
 <h1>Hey there! I'm Amira.</h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1;">
 
 ## 👨🏻‍💻 About Me
-
+<p style="flex: 1; margin: 0;">
 I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong background in Electronics & Communication Engineering.
 
 - 🎓 Graduated from High Institute Of Computer Science  
@@ -27,30 +24,23 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
   - Embedded Linux systems  
   - AUTOSAR architecture  
   - Low-level C development  
-
+  </p>
+  
 📫 Reach me:  
 - LinkedIn: https://linkedin.com/in/your-profile  
 - Email: amirahammami1010@gmail.com  
 
+  <img 
+    src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
+    width="280"
+  />
+
 </div>
 
-<div style="flex: 1; text-align: center;">
-  <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="280"/>
-</div>
 
-</div>
+
+
 ## 🛠️ Languages and Tools
-
-### 💻 Programming Languages
-- Python  
-- C  
-- C++  
-
-### ⚙️ Tools & Technologies
-- Git  
-- GitHub  
-- Linux (Ubuntu)  
-- Markdown  
 
 ### 🔧 IDEs
 - Visual Studio Code  
