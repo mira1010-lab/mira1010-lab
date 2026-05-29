@@ -9,6 +9,14 @@
 ## Hey there! I'm Amira.
 
 ### 👨🏻‍💻 About Me 
+
+
+
+
+
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300"/>
+</p>
 <!--
 **mira1010-lab/mira1010-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
