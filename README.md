@@ -1,9 +1,8 @@
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
-<h1 align="center">Hi 👋, I'm Amira Hammami</h1>
-<h3 align="center">Junior GRC Consultant | Future Embedded Systems Engineer</h3>
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/0cb60213353c82fafd5ce011525b2ee373fb278a74e9b64c2dc5770fb9cb8586/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
+
 
 
 ## Hey there! I'm Amira.
