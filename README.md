@@ -13,6 +13,7 @@
 
 
 ## 👨🏻‍💻 About Me
+<div style="display: flex; align-items: center; gap: 20px;">
 <p style="flex: 1; margin: 0;">
 I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong background in Electronics & Communication Engineering.
 
@@ -26,16 +27,16 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
   - Low-level C development  
   </p>
   
-📫 Reach me:  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: amirahammami1010@gmail.com  
-
   <img 
     src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
     width="280"
   />
 
 </div>
+📫 Reach me:  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: amirahammami1010@gmail.com  
+
 
 
 
