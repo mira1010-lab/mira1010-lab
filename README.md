@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 About Me
 <div style="display: flex; align-items: center; gap: 20px;">
 <p style="flex: 1; margin: 0;">
-I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong background in Electronics & Communication Engineering.
+Master’s graduate in New ICT, passionate about Embedded Software Engineering and IoT systems, with a strong interest in low-level and system development.
 
 - 🎓 Graduated from High Institute Of Computer Science  
 - 🏆 Rank: 1st with Excellent with Honours  
