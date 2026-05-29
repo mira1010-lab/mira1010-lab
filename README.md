@@ -33,6 +33,8 @@ I'm a passionate **Embedded Software Engineer and IoT Systems** with a strong ba
 
 ## 🛠️ Languages and Tools
 
-### 🔧 IDEs
-
-- Eclipse  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c">
+  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B">
+</p>
