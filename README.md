@@ -10,7 +10,7 @@
   <tr>
     <td valign="top" width="60%">
 
-Master's graduate in New ICT, passionate about Embedded Software Engineering and IoT systems, with a strong interest in low-level and system development.
+Master's graduate in New ICT with a strong focus on Embedded Software Engineering and IoT. Passionate about low-level programming, real-time systems, and the intersection of hardware and software.
 
 - 🎓 Graduated from High Institute Of Computer Science
 - 🏆 Rank: 1st with Excellent with Honours
